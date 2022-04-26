@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\WinFormsApp1\RadioButton_CheckBox\bin\Debug\net6.0-windows\RadioButton_CheckBox.exe
+C:\Users\Administrator\source\repos\WinFormsApp1\RadioButton_CheckBox\bin\Debug\net6.0-windows\RadioButton_CheckBox.deps.json
+C:\Users\Administrator\source\repos\WinFormsApp1\RadioButton_CheckBox\bin\Debug\net6.0-windows\RadioButton_CheckBox.runtimeconfig.json
+C:\Users\Administrator\source\repos\WinFormsApp1\RadioButton_CheckBox\bin\Debug\net6.0-windows\RadioButton_CheckBox.dll
+C:\Users\Administrator\source\repos\WinFormsApp1\RadioButton_CheckBox\bin\Debug\net6.0-windows\RadioButton_CheckBox.pdb
+C:\Users\Administrator\source\repos\WinFormsApp1\RadioButton_CheckBox\obj\Debug\net6.0-windows\RadioButton_CheckBox.vbproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\WinFormsApp1\RadioButton_CheckBox\obj\Debug\net6.0-windows\RadioButton_CheckBox.Form1.resources
+C:\Users\Administrator\source\repos\WinFormsApp1\RadioButton_CheckBox\obj\Debug\net6.0-windows\RadioButton_CheckBox.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\WinFormsApp1\RadioButton_CheckBox\obj\Debug\net6.0-windows\RadioButton_CheckBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\WinFormsApp1\RadioButton_CheckBox\obj\Debug\net6.0-windows\RadioButton_CheckBox.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\WinFormsApp1\RadioButton_CheckBox\obj\Debug\net6.0-windows\RadioButton_CheckBox.AssemblyInfo.vb
+C:\Users\Administrator\source\repos\WinFormsApp1\RadioButton_CheckBox\obj\Debug\net6.0-windows\RadioButton_CheckBox.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WinFormsApp1\RadioButton_CheckBox\obj\Debug\net6.0-windows\RadioButton_CheckBox.dll
+C:\Users\Administrator\source\repos\WinFormsApp1\RadioButton_CheckBox\obj\Debug\net6.0-windows\refint\RadioButton_CheckBox.dll
+C:\Users\Administrator\source\repos\WinFormsApp1\RadioButton_CheckBox\obj\Debug\net6.0-windows\RadioButton_CheckBox.pdb
+C:\Users\Administrator\source\repos\WinFormsApp1\RadioButton_CheckBox\obj\Debug\net6.0-windows\RadioButton_CheckBox.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\WinFormsApp1\RadioButton_CheckBox\obj\Debug\net6.0-windows\ref\RadioButton_CheckBox.dll
