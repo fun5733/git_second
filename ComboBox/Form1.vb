@@ -11,6 +11,6 @@
     End Sub
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        Label2.Text = ComboBox1.Text & "을(를) 선택했습니다."
+        Label2.Text = ComboBox1.Text & "을(를) 선택했습니다. ㄹㅇ"
     End Sub
 End Class
